@@ -1,1 +1,2 @@
-# human-emotion-recognition
+# Human-Emotion-recognition
+Emotion recognition using CNN
